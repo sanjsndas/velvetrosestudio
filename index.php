@@ -1,6 +1,14 @@
 <!doctype html>
 <html lang="en" class="height-ultimate" dir="ltr">
         <head>
+
+                <!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-ZD72VJV-SJiCupVe9eCtJ.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
                 <meta name="viewport" content="width=device-width,initial-scale=1" />
                 <link href="styles.css" rel="stylesheet" />
                 <meta charset="utf-8" />
